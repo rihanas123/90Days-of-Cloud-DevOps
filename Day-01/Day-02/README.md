@@ -12,4 +12,4 @@ Linux is an open source operating system based on Unix .It is widely used in ser
 
 
 
-                              <img width="423" height="400" alt="image" src="https://github.com/user-attachments/assets/52dc4cbe-849c-47cf-8d33-e89fd3ac23d7" />
+                    <img width="423" height="400" alt="image" src="https://github.com/user-attachments/assets/52dc4cbe-849c-47cf-8d33-e89fd3ac23d7" />

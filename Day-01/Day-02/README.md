@@ -31,7 +31,7 @@ It manages CPU, Memory, devices, and processes.
 Hardware includes physical components like CPU, RAM, disk, and network devices. 
 
 ## Processes 
-A process is a running instance of a program.When you execute a command or open an application, a process is created 
+A process is a running instance of a program. When you execute a command or open an application, a process is created 
 Each process has its owm Process Id (PID)
 #Process States
  - Running – Process is using CPU
@@ -39,14 +39,14 @@ Each process has its owm Process Id (PID)
  - Stopped – Paused manually or by signal
  - Zombie – Process finished but not cleaned up
 ### Systemd 
-Systemd is the dafault init system in modern linux distributions.It starts system services during boot and manages backgrund services.
+Systemd is the dafault init system in modern linux distributions. It starts system services during boot and manages backgrund services.
 
 # Daily Useful Linux Commands
-  ps – View running processes
-  top – Monitor CPU and memory usage
-  systemctl – Manage services
-  journalctl – View system logs
-  kill – Stop a process
+  ps– View running processes
+  top– Monitor CPU and memory usage
+  systemctl– Manage services
+  journalctl– View system logs
+  kill– Stop a process
 
 # Why This Matters
  Helps debug crashed services

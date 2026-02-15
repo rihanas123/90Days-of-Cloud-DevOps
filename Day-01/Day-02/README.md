@@ -6,9 +6,9 @@ Most DevOps tools like Docker and Kubernetes run on Linux
 
 
 # Why Linux is used:
- **Secure**
+- **Secure**
  Linux has Strong permission and user access control 
-**Stable**
+-**Stable**
 Linux servers can run for years without reboot 
 **Widely used**
 Most cloud platforms and servers use Linux

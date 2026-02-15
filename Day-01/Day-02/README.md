@@ -5,7 +5,7 @@ Linux is an open source operating system based on Unix .It is widely used in ser
 Most DevOps tools like Docker and Kubernetes run on Linux.
 
 
-# Why Linux is used:
+## Why Linux is used:
 - **Secure**
  Linux has Strong permission and user access control. 
 - **Stable**
@@ -30,9 +30,15 @@ It manages CPU, Memory, devices, and processes.
 ### Hardware 
 Hardware includes physical components like CPU, RAM, disk, and network devices. 
 
-# Processes 
+## Processes 
 A process is a running instance of a program.When you execute a command or open an application, a process is created 
 Each process has its owm Process Id (PID)
+### Process States
+Running – Process is using CPU
+Sleeping – Waiting for input or resources
+Stopped – Paused manually or by signal
+Zombie – Process finished but not cleaned up
+
 
 
 

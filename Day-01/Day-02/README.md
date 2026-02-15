@@ -30,6 +30,10 @@ It manages CPU, Memory, devices, and processes.
 ### Hardware 
 Hardware includes physical components like CPU, RAM, disk, and network devices. 
 
+# Processes 
+A process is a running instance of a program.When you execute a command or open an application, a process is created 
+Each process has its owm Process Id (PID)
+
 
 
 

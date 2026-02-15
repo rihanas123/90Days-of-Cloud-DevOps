@@ -38,7 +38,7 @@ Each process has its owm Process Id (PID)
  - Sleeping – Waiting for input or resources
  - Stopped – Paused manually or by signal
  - Zombie – Process finished but not cleaned up
-### Systemd 
+## Systemd 
 Systemd is the dafault init system in modern linux distributions. It starts system services during boot and manages backgrund services.
 
 # Daily Useful Linux Commands

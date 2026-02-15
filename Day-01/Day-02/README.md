@@ -17,7 +17,11 @@ Anyone can use, modify, and distribute linux without liscence cost.
   
 ## Linux Architectue 
 
-<img width="423" height="400" alt="image" src="https://github.com/user-attachments/assets/78e948f9-4233-4f07-9173-fa95a6372b14" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/78e948f9-4233-4f07-9173-fa95a6372b14"
+## Application 
+## Shell 
+## Kernal
+## Hardware 
 
 
 

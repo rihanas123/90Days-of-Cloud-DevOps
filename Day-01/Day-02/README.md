@@ -6,10 +6,9 @@ Most DevOps tools like Docker and Kubernetes run on Linux
 
 
 # Why Linux is used:
- - Stable
- -Highly used
- -free & Open source 
- -Secure 
+  -Stable
+  -Secure  
+  -Free & Open Source
   
 # Linux Architectue 
 

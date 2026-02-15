@@ -42,11 +42,11 @@ Each process has its owm Process Id (PID)
 Systemd is the dafault init system in modern linux distributions. It starts system services during boot and manages backgrund services.
 
 # Daily Useful Linux Commands
-  - ps– View running processes
-  - top– Monitor CPU and memory usage
-  - systemctl– Manage services
-  - journalctl– View system logs
-  - kill– Stop a process
+  - ps – View running processes
+  - top – Monitor CPU and memory usage
+  - systemctl – Manage services
+  - journalctl – View system logs
+  - kill – Stop a process
 
 # Why This Matters
  - Helps debug crashed services

@@ -19,7 +19,6 @@ Anyone can use, modify, and distribute linux without liscence cost.
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/78e948f9-4233-4f07-9173-fa95a6372b14">
 
-
 ### Application 
 Applications are softeware programs like browsers, editors and DevOps tools that run top of linux. 
 ### Shell 

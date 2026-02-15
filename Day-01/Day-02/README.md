@@ -1,13 +1,13 @@
 # Day 02 -Linux Architecture, Process, and systemd
 
-# Linux- What is Linux?
+## Linux- What is Linux?
 Linux is an open source operating system based on Unix .It is widely used in servers, cloud platforms ,and DevOps environments because of its stability and security.
 Most DevOps tools like Docker and Kubernetes run on Linux
 
 
 # Why Linux is used:
--Stable
--Secure  
+# stable
+# Secure  
 -Free & Open Source
   
 # Linux Architectue 

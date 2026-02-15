@@ -12,13 +12,12 @@ Most DevOps tools like Docker and Kubernetes run on Linux
 Linux servers can run for years without reboot 
 - **Widely used**
 Most cloud platforms and servers use Linux
+- **Free & Open source**
+Anyone can use, modify, and distribute linux without liscence cost.
   
-# Linux Architectue 
+## Linux Architectue 
 
-     <p align="centre">img width="423" height="400" alt="image" src="https://github.com/user-attachments/assets/52dc4cbe-849c-47cf-8d33-e89fd3ac23d7" />
-
-
-
+<img width="423" height="400" alt="image" src="https://github.com/user-attachments/assets/78e948f9-4233-4f07-9173-fa95a6372b14" />
 
 
 
